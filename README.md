@@ -1,0 +1,1 @@
+Event Management System is my full-stack project with user, admin, and vendor modules. The frontend is built using HTML, CSS, and Bootstrap, while the backend uses Python Django. A Flutter-based mobile app is provided for users to access event services.
